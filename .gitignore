@@ -54,3 +54,5 @@ literature/
 manuscript/
 data/
 
+#ini files
+*.ini
